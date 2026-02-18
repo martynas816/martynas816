@@ -1,11 +1,11 @@
-# Martynas Džiugas — Data (SQL • dbt • Postgres • BI)
+# Martynas Džiugas - Data (SQL • dbt • Postgres • BI)
 
 I build analytics projects end-to-end: raw data → warehouse/model → tested marts → dashboards.
 
 Open to: Data Analyst / Analytics Engineer / Junior Data Engineer (intern/junior).
 
 ## Featured projects (start here)
-1) **Modern Analytics Stack — E-commerce (Postgres + dbt + Metabase)**
+1) **Modern Analytics Stack - E-commerce (Postgres + dbt + Metabase)**
    - Star-schema style marts, dbt tests, and dashboards with KPIs.
    - Repo: https://github.com/martynas816/modern-analytics-stack-ecommerce
 
