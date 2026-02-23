@@ -31,4 +31,4 @@ I build analytics projects end-to-end: raw data → warehouse/model → tested m
 ## Contact
 - LinkedIn: linkedin.com/in/martynas-dziugas-a38764260
 - Email: martynas.dziugas2@gmail.com
-- Location: Lithuania (open to remote/relocation)
+- Location: Lithuania
