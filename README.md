@@ -1,4 +1,4 @@
-# Martynas Džiugas - Data (SQL • dbt • Postgres • BI)
+# Martynas Džiugas - Data | SQL • Python • dbt • BigQuery • Postgres • BI
 
 I build analytics projects end-to-end: raw data → warehouse/model → tested marts → dashboards/decision outputs.
 
