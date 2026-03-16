@@ -1,4 +1,4 @@
-# Martynas Džiugas - Data | SQL • Python • dbt • BI<br>BigQuery • Postgres • Snowflake
+# Martynas Džiugas - Data | SQL • Python • dbt • BI
 
 Analytics and data engineering projects from raw data to models, checks, and dashboards.
 
