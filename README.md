@@ -24,10 +24,6 @@ Repo: https://github.com/martynas816/sales-postgres-analysis
 Power BI dashboard with DAX measures, KPI definitions, and supporting documentation.  
 Repo: https://github.com/martynas816/sales-powerbi-dashboard
 
-### Stack Overflow SQL Case Study
-BigQuery SQL analysis of Stack Overflow public data with visual outputs and written findings.  
-Repo: https://github.com/martynas816/stackoverflow-sql-case-study
-
 ## Core skills
 
 - SQL: Postgres, BigQuery, Snowflake
