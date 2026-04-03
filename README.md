@@ -6,7 +6,7 @@ Analytics and data engineering projects from raw data to models, checks, and das
 
 ### E-commerce Revenue Analytics
 Postgres + dbt + Metabase project with warehouse modeling, dbt tests, and KPI dashboards.  
-Repo: https://github.com/martynas816/modern-analytics-stack-ecommerce
+Repo: https://github.com/martynas816/E-commerce-Revenue-Analytics
 
 ### Product Analytics A/B Testing Pipeline
 Prefect + dbt + Postgres pipeline with event generation, warehouse modeling, monitoring checks, and an A/B test decision artifact.  
