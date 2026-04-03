@@ -4,10 +4,6 @@ Analytics and data engineering projects from raw data to models, checks, and das
 
 ## Featured projects
 
-### Snowflake Shipping Ops Platform
-Shipping operations pipeline built around Snowflake, dbt, Airflow, and Python. Includes generated operational data, dbt marts, monitoring outputs, and dashboard previews.  
-Repo: https://github.com/martynas816/snowflake-shipping-ops-platform
-
 ### E-commerce Revenue Analytics
 Postgres + dbt + Metabase project with warehouse modeling, dbt tests, and KPI dashboards.  
 Repo: https://github.com/martynas816/modern-analytics-stack-ecommerce
@@ -26,11 +22,11 @@ Repo: https://github.com/martynas816/sales-powerbi-dashboard
 
 ## Core skills
 
-- SQL: Postgres, BigQuery, Snowflake
+- SQL: Postgres, BigQuery
 - Data modeling: staging, intermediate, marts, fact/dimension patterns
 - dbt: transformations, schema tests, project structure
 - Python: pandas, data generation, analysis scripts, plotting
-- Orchestration / automation: Prefect, Airflow, Docker Compose, GitHub Actions
+- Orchestration / automation: Prefect, Docker Compose, GitHub Actions
 - BI: Power BI, Metabase, KPI definitions, dashboard reporting
 
 ## Contact
