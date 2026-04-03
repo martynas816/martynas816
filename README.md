@@ -8,7 +8,7 @@ Analytics and data engineering projects from raw data to models, checks, and das
 Shipping operations pipeline built around Snowflake, dbt, Airflow, and Python. Includes generated operational data, dbt marts, monitoring outputs, and dashboard previews.  
 Repo: https://github.com/martynas816/snowflake-shipping-ops-platform
 
-### Modern Analytics Stack - E-commerce
+### E-commerce Revenue Analytics
 Postgres + dbt + Metabase project with warehouse modeling, dbt tests, and KPI dashboards.  
 Repo: https://github.com/martynas816/modern-analytics-stack-ecommerce
 
