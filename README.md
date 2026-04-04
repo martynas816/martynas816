@@ -20,7 +20,7 @@ Repo: https://github.com/martynas816/sales-postgres-analysis
 Power BI dashboard with DAX measures, KPI definitions, and supporting documentation.  
 Repo: https://github.com/martynas816/sales-powerbi-dashboard
 
-## Core skills
+## Skills used
 
 - SQL: Postgres, BigQuery
 - Data modeling: staging, intermediate, marts, fact/dimension patterns
