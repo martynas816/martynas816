@@ -28,6 +28,7 @@ Repo: https://github.com/martynas816/sales-powerbi-dashboard
 - Python: pandas, data generation, analysis scripts, plotting
 - Orchestration / automation: Prefect, Docker Compose, GitHub Actions
 - BI: Power BI, Metabase, KPI definitions, dashboard reporting
+- AI: LLM-assisted development
 
 ## Contact
 
