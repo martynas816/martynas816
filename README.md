@@ -22,13 +22,13 @@ Repo: https://github.com/martynas816/sales-powerbi-dashboard
 
 ## Skills used
 
+- AI: AI-assisted development
 - SQL: Postgres, BigQuery
 - Data modeling: staging, intermediate, marts, fact/dimension patterns
 - dbt: transformations, schema tests, project structure
 - Python: pandas, data generation, analysis scripts, plotting
 - Orchestration / automation: Prefect, Docker Compose, GitHub Actions
 - BI: Power BI, Metabase, KPI definitions, dashboard reporting
-- AI: LLM-assisted development
 
 ## Contact
 
