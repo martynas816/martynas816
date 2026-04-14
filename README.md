@@ -1,4 +1,4 @@
-# Martynas Džiugas - Data | SQL • Python • dbt • BI
+# Martynas Džiugas - Data Projects
 
 Analytics and data engineering projects from raw data to models, checks, and dashboards.
 
